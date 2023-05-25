@@ -1,6 +1,6 @@
 baseURL: "https://plasma-lab.netlify.app/"
 languageCode: en-us
-title: "Plasma Lab"
+title: "Плазма!!!"
 menu:
   main:
     - name: "🏡 Home [h]"
@@ -15,13 +15,12 @@ menu:
     # - name: "📘 Bookmarks"
     #   url: /bookmarks
     #   weight: 4
-    # - name: "📞 Contact"
-      # url: "https://aprilhamer.netlify.app/"
-      # url: /contact
-      # weight: 5
+    - name: "📞 TG @AprilHamer"
+      url: "https://t.me/AprilHamer"
+      weight: 5
 
 params:
-  description: "Plasma Lab"
+  description: "Плазменные технологии"
 
 markup:
   highlight:
