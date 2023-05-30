@@ -3,7 +3,7 @@ languageCode: en-us
 title: "Плазма!!!"
 menu:
   main:
-    - name: "🏡 Home [h]"
+    - name: "🏡 Домой [h]"
       url: /
       weight: 1
     # - name: categories
@@ -15,9 +15,9 @@ menu:
     # - name: "📘 Bookmarks"
     #   url: /bookmarks
     #   weight: 4
-    - name: "📞 TG @AprilHamer"
-      url: "https://t.me/AprilHamer"
-      weight: 5
+    # - name: "📞 Контакт"
+    #   url: "https://t.me/AprilHamer"
+    #   weight: 5
 
 params:
   description: "Плазменные технологии"
